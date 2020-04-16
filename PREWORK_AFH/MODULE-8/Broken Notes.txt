@@ -1,0 +1,16 @@
+
+BooTheDog.html
+
+div class for <h1> was not poperly closed with a ">" at the end.
+Description did not have proper paragraph tags <p></P>
+Link to the wiki did not have the destination for the link, only the name of the link.
+The grow and shrink toggle and color text toggle were in the wrong area.
+fun text buttons had the incorrect functions applied to each button.
+Hobbies were not listed with correct header <li></li>
+script src was the wrong js file.  Showed error.js instead of logic.js
+
+logic.js
+
+Array of Boo facts were not separated by quotes.
+pink not in quotes
+Shrink and grow commands did not have quotes around "click"
